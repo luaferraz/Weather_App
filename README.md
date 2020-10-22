@@ -3,7 +3,7 @@
 > But still theres somethings i'd like to add
 
 - [x] Change the backgroud based on the temperature
-- [ ] Change the background base on (raining, snowing, blablablawhiskasache)
+- [ ] Change the background based on (raining, snowing, blablablawhiskasache)
 - [ ] Add animations
 
 ---
