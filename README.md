@@ -1,5 +1,5 @@
 # Weather_App
-## ** A simple weather application base on a tutorial from Tyler Potts **
+## ** A simple weather application based on a tutorial from Tyler Potts **
 > But still theres somethings i'd like to add
 
 - [x] Change the backgroud based on the temperature
