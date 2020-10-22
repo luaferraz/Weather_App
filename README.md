@@ -1,6 +1,6 @@
 # Weather_App
 ## ** A simple weather application base on a tutorial from Tyler Potts **
-But still theres somethings i'd like to add
+> But still theres somethings i'd like to add
 
 - [x] Change the backgroud based on the temperature
 - [ ] Change the background base on (raining, snowing, blablablawhiskasache)
