@@ -12,4 +12,4 @@
 
 ---
 
-It's a very simple ui, i didn't change much from the tutorial and its something i'd like to do in the future, that's my first application using react so theres many things to improve.
+It's a very simple UI, i didn't change much from the tutorial and its something i'd like to do in the future, that's my first application using react so theres many things to improve.
